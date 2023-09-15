@@ -12,3 +12,5 @@ The processes for Anvi'o refining are as follows:
 Example for above Anvi'o processes can be found:  
   https://merenlab.org/2016/06/22/anvio-tutorial-v2/    
   https://merenlab.org/2015/05/11/anvi-refine/
+
+![image](https://github.com/danghongyu/Workflow_for_genome_resolved_analysis/assets/77089121/a850eead-5a68-441e-9ec0-d55acbffba7f)
