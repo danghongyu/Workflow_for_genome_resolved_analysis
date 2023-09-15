@@ -1,3 +1,4 @@
+## Assembly
 Installation and usage of MEGAHIT can be found:
 https://github.com/voutcn/megahit
 
