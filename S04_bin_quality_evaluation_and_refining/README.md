@@ -15,6 +15,7 @@ Example for above Anvi'o processes can be found:
   https://merenlab.org/2016/06/22/anvio-tutorial-v2/    
   https://merenlab.org/2015/05/11/anvi-refine/
 
+## 
 Below is an example for a low quality bin from SRR15035645 failed to refine. The three clusters in the this bin have low completion and high contamination.
 ![Screen Shot 2023-09-14 at 22 51 30](https://github.com/danghongyu/Workflow_for_genome_resolved_analysis/assets/77089121/e243e4a4-8dd6-44da-9b56-5cb072179950)
 
