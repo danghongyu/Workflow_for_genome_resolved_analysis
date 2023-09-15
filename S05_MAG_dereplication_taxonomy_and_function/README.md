@@ -1,3 +1,4 @@
+## Dereplication, taxonomy classification and function annotation
 Once the refining is completed. Bins with a completion >=80% and a contamination <=5% were designated as MAGs
 
 The high quality MAGs from co-assembling and MAGs met above standard from individual assembling were dereplicated by using dRep.
