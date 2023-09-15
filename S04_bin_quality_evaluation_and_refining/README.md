@@ -1,3 +1,4 @@
+## bin quality evaluation and refine
 The bin quality was evaluated by checkM first. To refine the low quality bins, Anvi'o is used.
 
   Installation and usage of checkM can be found: https://github.com/Ecogenomics/CheckM/wiki  
