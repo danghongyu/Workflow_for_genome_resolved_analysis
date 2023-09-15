@@ -10,5 +10,6 @@ The functional annotation of the MAGs is processed with Prokka and Anvi'o.
 
 Installation and usage of GTDB-Tk can be found: https://ecogenomics.github.io/GTDBTk/    
 Installation and usage of Prokka can be found: https://github.com/tseemann/prokka  
-The usage for annoation with Anvi'o can be found: https://anvio.org/help/7/programs/anvi-run-kegg-kofams/    
-                                                  https://merenlab.org/tutorials/dfi-metagenomics-workshop/
+The usage for annoation with Anvi'o can be found: 
+https://anvio.org/help/7/programs/anvi-run-kegg-kofams/    
+https://merenlab.org/tutorials/dfi-metagenomics-workshop/
