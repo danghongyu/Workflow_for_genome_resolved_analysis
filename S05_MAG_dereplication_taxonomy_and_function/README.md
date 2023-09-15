@@ -8,10 +8,12 @@ The taxonomy of the MAGs is determined by GTDB-Tk.
 
 The functional annotation of the MAGs is processed with Prokka and Anvi'o.
 
+Based on the KEGG annotation by Anvi'o, the metabolism of the MAGs can be determined.
+
 Installation and usage of GTDB-Tk can be found: https://ecogenomics.github.io/GTDBTk/    
 
 Installation and usage of Prokka can be found: https://github.com/tseemann/prokka  
 
-The usage for annotation with Anvi'o can be found:     
+The usage for annotation and investigating the metabolism with Anvi'o can be found:     
 https://anvio.org/help/7/programs/anvi-run-kegg-kofams/    
 https://merenlab.org/tutorials/dfi-metagenomics-workshop/
