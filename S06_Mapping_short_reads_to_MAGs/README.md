@@ -1,3 +1,4 @@
+## Mapping the metagenomic and metatranscirptomic reads to the MAGs, and building the phylogenetic tree
 CoverM is used to map the short metagenomic reads to the MAGs to get the RPKM value, MAG coverage fraction.
 
 kallisto is used to map the short metatransciptomic reads to the genes on the MAGs.
