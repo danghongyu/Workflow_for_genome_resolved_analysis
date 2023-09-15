@@ -1,3 +1,4 @@
+##Binning
 The assembled contig from Megahit need to be mapped to get the sequecing depth information before binning.
 
 Here Bowtie 2 is used for mapping, Samtools is used to tranform the *.sam file from Bowtie 2 to indexed and sorted *.bam file.
