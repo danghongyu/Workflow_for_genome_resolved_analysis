@@ -15,4 +15,4 @@ Run the above commond, the pangenome will be pop out in your explorer. By click 
 
 ![Screen Shot 2023-09-17 at 21 21 04](https://github.com/danghongyu/Workflow_for_genome_resolved_analysis/assets/77089121/821b6fd2-af38-43f0-8bf7-83a318e8313e)
 
-More example of pangenomic analysis can be found: https://merenlab.org/2016/11/08/pangenomics-v2/
+More examples of pangenomic analysis can be found: https://merenlab.org/2016/11/08/pangenomics-v2/
