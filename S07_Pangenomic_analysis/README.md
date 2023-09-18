@@ -1,5 +1,5 @@
 ### Pangenomic analysis for Dehalococcoides
-Formated Data for Dehalococcoides pangenomic analysis in Iowa Research Online
+Formated data is deposited in Iowa Research Online with title: Data for Dehalococcoides pangenomic analysis 
 
 #### The data including:
 genome-storage-db: DHC_final-GENOMES.db
