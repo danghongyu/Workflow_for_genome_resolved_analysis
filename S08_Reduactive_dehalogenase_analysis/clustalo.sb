@@ -1,0 +1,1 @@
+clustalo -i all_RDase_pro.fasta -o Align_all_RDase_pro.fasta --outfmt fasta --threads 20
