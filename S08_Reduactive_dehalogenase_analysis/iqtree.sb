@@ -1,0 +1,1 @@
+iqtree -s Align_all_RDase_pro.fasta -m MFP -T 20 -B 1000
