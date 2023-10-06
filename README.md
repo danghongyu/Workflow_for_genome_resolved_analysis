@@ -1,6 +1,6 @@
 # Workflow for genome resolved analysis
 
-This workflow is used for the metagenomics and metatranscriptomics analysis of PCB degrdation microcosms.
+This workflow is used for the metagenomics and metatranscriptomics analysis of PCB degradation microcosms.
 
   The raw reads for this work have been deposited in NCBI under Bioproject: PRJNA743546
   
